@@ -1,22 +1,25 @@
 # Security Awareness Coach
 
-AI security awareness training, phishing coaching, and per-employee risk scoring — build your human firewall.
+AI security awareness training, phishing coaching and risk scoring per employee.
 
 **Live app:** https://ziontechgroup.com/security-awareness-coach/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- Personalized micro-training and phishing simulations
-- Per-employee risk scoring and coaching plans
-- Compliance-ready reporting
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [AI Phishing Simulator](https://github.com/Zion-support/ai-phishing-simulator) — [live](https://ziontechgroup.com/ai-phishing-simulator/)
+- [AI Cybersecurity Hub](https://github.com/Zion-support/ai-cybersecurity-hub) — [live](https://ziontechgroup.com/ai-cybersecurity-hub/)
+- [Cybersecurity Risk Assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — [live](https://ziontechgroup.com/cybersecurity-risk-assessment/)
+- [Secrets Sentinel](https://github.com/Zion-support/secrets-sentinel) — [live](https://ziontechgroup.com/secrets-sentinel/)
 
-### Related apps
-- [Patch Priority Radar](https://ziontechgroup.com/patch-priority-radar/) — risk-based patching
-- [Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/) — automated questionnaires
-- [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) — VoC analytics
+## Links
+- Live: https://ziontechgroup.com/security-awareness-coach/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
