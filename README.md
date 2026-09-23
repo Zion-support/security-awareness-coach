@@ -1,25 +1,24 @@
 # Security Awareness Coach
 
-AI security awareness training, phishing coaching and risk scoring per employee.
+AI security awareness training, phishing coaching and risk scoring per employee. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/security-awareness-coach/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Security Awareness Coach is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **Security & Compliance**.
 
-## Related apps
-- [AI Phishing Simulator](https://github.com/Zion-support/ai-phishing-simulator) — [live](https://ziontechgroup.com/ai-phishing-simulator/)
-- [AI Cybersecurity Hub](https://github.com/Zion-support/ai-cybersecurity-hub) — [live](https://ziontechgroup.com/ai-cybersecurity-hub/)
-- [Cybersecurity Risk Assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — [live](https://ziontechgroup.com/cybersecurity-risk-assessment/)
-- [Secrets Sentinel](https://github.com/Zion-support/secrets-sentinel) — [live](https://ziontechgroup.com/secrets-sentinel/)
+## Related apps in the network
+- [AI Phishing Simulator](https://ziontechgroup.com/ai-phishing-simulator/) — security awareness phishing training ([repo](https://github.com/Zion-support/ai-phishing-simulator))
+- [AI Compliance Auditor](https://ziontechgroup.com/ai-compliance-auditor/) — EU AI Act / ISO 42001 / NIST AI RMF automation ([repo](https://github.com/Zion-support/ai-compliance-auditor))
+- [AI Compliance Guardian](https://ziontechgroup.com/ai-compliance-guardian/) — automate regulatory compliance ([repo](https://github.com/Zion-support/ai-compliance-guardian))
+- [Secrets Sentinel](https://ziontechgroup.com/secrets-sentinel/) — secret scanning & leak response ([repo](https://github.com/Zion-support/secrets-sentinel))
+- [Cybersecurity Risk Assessment](https://ziontechgroup.com/cybersecurity-risk-assessment/) — security posture scoring ([repo](https://github.com/Zion-support/cybersecurity-risk-assessment))
+- [Prompt Shield](https://ziontechgroup.com/prompt-shield/) — LLM security testing ([repo](https://github.com/Zion-support/prompt-shield))
 
 ## Links
-- Live: https://ziontechgroup.com/security-awareness-coach/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
